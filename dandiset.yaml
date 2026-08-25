@@ -124,9 +124,11 @@ name: Electrophysiological Dataset of Patch-seq Recording in non-Human Primate A
 protocol:
 - https://doi.org/10.1038/nprot.2017.120
 relatedResource:
-- name: Cell Atlas and Novel Signal Processing Strategy in Primate Insular Cortex
+- identifier: v1
+  name: Cell Atlas and Novel Signal Processing Strategy in Primate Insular Cortex
   relation: dcite:IsSourceOf
   schemaKey: Resource
+  url: https://doi.org/10.1038/s41556-026-02009-4
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
